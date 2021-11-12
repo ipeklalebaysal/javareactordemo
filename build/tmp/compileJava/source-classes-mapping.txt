@@ -1,0 +1,4 @@
+ChangePkgName/ChangeClassName.java
+ ChangePkgName.ChangeClassName
+ ChangePkgName.ChangeClassName$1
+ ChangePkgName.ChangeClassName$2
